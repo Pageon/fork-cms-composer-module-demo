@@ -1,0 +1,13 @@
+{
+    "name": "pageon/fork-cms-composer-module-demo",
+    "description": "This is a demo module that doesn't realy do something but demo's how you can install your module using composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jelmer Prins",
+            "email": "jelmer@pageon.be"
+        }
+    ],
+    "require": {}
+}
